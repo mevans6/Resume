@@ -172,7 +172,7 @@ p {
 
 .header,
 .section {
-    min-height: 850px;
+    min-height: 150px;
     padding: 110px;
 }
 
@@ -193,7 +193,7 @@ p {
 .contact .contact-links,
 .header h1 {
     color: var(--black);
-    margin-bottom: 45px;
+    margin-bottom: 10px;
 }
 
 .header .flex-list {
@@ -228,7 +228,7 @@ p {
     font-size: var(--font-40);
     line-height: 150%;
 
-    margin-bottom: 180px;
+    margin-bottom: 10px;
 }
 
 .about .achievements {
